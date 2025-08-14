@@ -14,7 +14,7 @@ Un petit jeu de mémoire codé en **Python** avec **Tkinter**, où l'objectif es
 ---
 
 ## 📸 Aperçu
-![Aperçu du jeu](screenshot_game.png)
+![Aperçu du jeu](img/screenshot_game.png)
 
 ---
 
@@ -38,6 +38,7 @@ Un petit jeu de mémoire codé en **Python** avec **Tkinter**, où l'objectif es
 ```bash
 git clone https://github.com/votre-utilisateur/memory-game.git
 cd memory-game
+pip install -r requirements.txt
 ```
 
 ### 2. Lancer le script python
