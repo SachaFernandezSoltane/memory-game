@@ -30,6 +30,8 @@ Un petit jeu de mémoire codé en **Python** avec **Tkinter**, où l'objectif es
 3. Sinon, elles se retournent à nouveau.
 4. Trouvez toutes les paires pour gagner !
 
+---
+
 ## ⚙️ Installation
 
 ### 1. Cloner le dépôt
