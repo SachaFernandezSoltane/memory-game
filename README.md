@@ -1,52 +1,54 @@
-# 🧠 Jeu de la Mémoire – Python & Tkinter
+# 🧠 Memory Game -- Python & Tkinter
 
-Un petit jeu de mémoire codé en **Python** avec **Tkinter**, où l'objectif est de retrouver toutes les paires de couleurs en un minimum de coups.
+A small memory game coded in **Python** with **Tkinter**, where the goal
+is to match all pairs of colors in as few moves as possible.
 
----
+------------------------------------------------------------------------
 
-## 🎮 Fonctionnalités
-- Plateau personnalisable (taille `n x n`)
-- Couleurs mélangées aléatoirement à chaque partie
-- Compteur de coups
-- Message de victoire avec le nombre de coups réalisés
-- Interface graphique simple et responsive avec Tkinter
+## 🎮 Features
 
----
+-   Customizable board (size `n x n`)
+-   Colors shuffled randomly each game
+-   Move counter
+-   Victory message with the number of moves taken
+-   Simple and responsive graphical interface with Tkinter
 
-## 📸 Aperçu
-![Aperçu du jeu](img/screenshot_game.png)
+------------------------------------------------------------------------
 
----
+## 📸 Preview
 
-## 🛠 Dépendances
-- Python 3.x
-- Tkinter (fourni par défaut avec Python sur la plupart des systèmes)
+![Game preview](img/screenshot_game.png)
 
---- 
+------------------------------------------------------------------------
 
-## 📝 Règles du jeu
-1. Cliquez sur deux cases pour les retourner.
-2. Si les couleurs correspondent, elles restent affichées.
-3. Sinon, elles se retournent à nouveau.
-4. Trouvez toutes les paires pour gagner !
+## 🛠 Dependencies
 
----
+-   Python 3.x
+-   Tkinter (included by default with Python on most systems)
+
+------------------------------------------------------------------------
+
+## 📝 Game Rules
+
+1.  Click on two tiles to flip them.
+2.  If the colors match, they stay revealed.
+3.  Otherwise, they flip back over.
+4.  Find all pairs to win!
+
+------------------------------------------------------------------------
 
 ## ⚙️ Installation
 
-### 1. Cloner le dépôt
-```bash
-git clone https://github.com/votre-utilisateur/memory-game.git
+### 1. Clone the repository
+
+``` bash
+git clone https://github.com/your-username/memory-game.git
 cd memory-game
 pip install -r requirements.txt
 ```
 
-### 2. Lancer le script python
-```python
+### 2. Run the Python script
+
+``` python
 python .\main.py
 ```
-
-
-
-
-
